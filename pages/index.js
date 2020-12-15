@@ -8,7 +8,7 @@ function HomePage() {
       <Head>
         <title>Ana Sayfa</title>
       </Head>
-      <h1 className="title">Welcome to my-nextjs-app</h1>
+      <h1 className="title">Welcome to BT project</h1>
         <style jsx>{``}
         </style>
     </Layout>
