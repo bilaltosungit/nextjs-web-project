@@ -9,9 +9,7 @@ function Layout({ children }) {
             <title>BT | website </title>
             <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         </Head>
-      <Navigation />
       <main>{children}</main>
-      <footer>Designed by BT</footer>
     </div>
   );
 }
